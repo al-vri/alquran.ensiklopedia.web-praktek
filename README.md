@@ -6,7 +6,6 @@
 4. 16650047 — Ya'kin Arif Prabowo
 5. 16650068 — Khamdan Nahari
 
-
 #Pernah diuji coba pada:
 
 - Framework: Laravel versi 5.6

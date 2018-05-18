@@ -6,7 +6,7 @@
 4. Ya'kin Arif Prabowo (16650047)
 5. Khamdan Nahari (16650068)
 
-#Telah dites pada:
+#Pernah diuji coba pada:
 
 1. Framework: Laravel versi 5.6
 2. Sistem Operasi Lubuntu x64-bit

@@ -1,7 +1,7 @@
 # Kelompok:
 
 1. 16650028 — Ulfa Mulya
-2. 16650036 — Azis ALvriyanto
+2. 16650036 — Azis Alvriyanto
 3. 16650037 — Aditya Pratama Nugraha
 4. 16650047 — Ya'kin Arif Prabowo
 5. 16650068 — Khamdan Nahari

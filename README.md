@@ -8,13 +8,13 @@
 
 #Telah dites pada:
 
-Framework: Laravel versi 5.6
-Sistem Operasi Lubuntu x64-bit
-PHP >= 7.1.3
-OpenSSL PHP Extension
-PDO PHP Extension
-Mbstring PHP Extension
-Tokenizer PHP Extension
-XML PHP Extension
-Ctype PHP Extension
-JSON PHP Extension
+1. Framework: Laravel versi 5.6
+2. Sistem Operasi Lubuntu x64-bit
+3. PHP >= 7.1.3
+4. OpenSSL PHP Extension
+5. PDO PHP Extension
+6. Mbstring PHP Extension
+7. Tokenizer PHP Extension
+8. XML PHP Extension
+9. Ctype PHP Extension
+10. JSON PHP Extension

@@ -8,8 +8,8 @@
 
 # Pernah diuji coba pada:
 
-- Framework: Laravel versi 5.6
 - Sistem Operasi Lubuntu x64-bit
+- Framework: Laravel versi 5.6
 - PHP >= 7.1.3
 - OpenSSL PHP Extension
 - PDO PHP Extension

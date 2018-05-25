@@ -24,10 +24,17 @@
 				$i++;
 			}
 
+			if (empty($surah)) {
+				$j_surah = 0;
+			}
+			else {
+				$j_surah = count(array_count_values($surah));
+			}
+
 			return view("cari", [
 				"katakunci" => $katakunci,
 				"ayat_s" => $ayat_s,
-				"jumlah_surah" => count(array_count_values($surah)),
+				"jumlah_surah" => $j_surah
 			]);
 		}
 
